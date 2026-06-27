@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: python-structure
+Version: 1.0.0
+Summary: Generate Python project folder structures
+Author: Aditya Dagar
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Dynamic: license-file
+
+# FASTAPI

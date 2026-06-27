@@ -1,0 +1,11 @@
+LICENCE
+README.md
+pyproject.toml
+project_maker/__init__.py
+project_maker/cli.py
+project_maker/structure.py
+python_structure.egg-info/PKG-INFO
+python_structure.egg-info/SOURCES.txt
+python_structure.egg-info/dependency_links.txt
+python_structure.egg-info/entry_points.txt
+python_structure.egg-info/top_level.txt

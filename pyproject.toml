@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-structure"
+version = "1.0.0"
+description = "Generate Python project folder structures"
+authors = [
+    {name = "Aditya Dagar"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.scripts]
+mkproject = "project_maker.cli:main"

@@ -1,0 +1,2 @@
+[console_scripts]
+mkproject = project_maker.cli:main
